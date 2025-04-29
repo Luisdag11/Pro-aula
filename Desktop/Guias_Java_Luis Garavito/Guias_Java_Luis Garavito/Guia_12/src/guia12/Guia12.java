@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package taller_7;
+package guia12;
 
 /**
  *
- * @author Luis Daniel Garavito
+ * @author Luis Garavito
  */
-public class Taller_7 {
+public class Guia12 {
 
     /**
      * @param args the command line arguments
